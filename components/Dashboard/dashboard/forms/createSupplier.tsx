@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { UploadOutlined } from "@ant-design/icons";
 import {
     Form,
@@ -11,7 +12,7 @@ import {
     Upload,
 } from "antd";
 import React from "react";
-import styles from "../../../styles/DashboardForm.module.css";
+import styles from "@/styles/DashboardForm.module.css";
 
 const DashboardForm = (): JSX.Element => {
     return (

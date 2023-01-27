@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { myprops } from "./numericData.interface";
 
-const Card = ({ img, title, count, subCount }: myprops): JSX.Element => {
+const Card = ({ img, title, count, subCount }: myprops) => {
     return (
         <div className="mx-6 rounded-xl shadow-[0_10px_20px_1px_rgba(0,0,0,0.2)]">
             <div className="flex">

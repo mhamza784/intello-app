@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import Card from "./card";
 import { myprops } from "./numericData.interface";
 
-const NumericData = (): JSX.Element => {
+const NumericData = () => {
     const { t: translations } = useTranslation();
     const mapElements: any = translations("dashboard.numericData", {
         returnObjects: true,
