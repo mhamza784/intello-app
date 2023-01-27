@@ -4,7 +4,7 @@ import LowerCharts from "./chartsData/lowerCharts";
 import UpperCharts from "./chartsData/upperCharts";
 import NumericData from "./numericData/numericData";
 
-const Dashboard = (): JSX.Element => {
+const Dashboard = () => {
     return (
         <>
             <div className="bg-white w-full h-full px-1 md:px-2  rounded-2xl">

@@ -12,7 +12,7 @@ export const options = {
     },
 };
 
-function BubbleChart({ chartData, width, height }: any): JSX.Element {
+function BubbleChart({ chartData, width, height }: any) {
     const userData = {
         labels: chartData.map((data: { year: any }) => data.year),
         datasets: [

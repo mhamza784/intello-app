@@ -4,7 +4,7 @@ import { CategoryScale } from "chart.js";
 
 ChartJS.register(CategoryScale);
 
-function LineChart({ chartData, width, height }: any): JSX.Element {
+function LineChart({ chartData, width, height }: any) {
     const userData = {
         labels: chartData.map((data: { year: any }) => data.year),
         datasets: [

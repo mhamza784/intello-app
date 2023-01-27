@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import AreaChart from "./areaChart";
 import BubbleChart from "./bubbleChart";
 
-const LowerCharts = (): JSX.Element => {
+const LowerCharts = () => {
     const { t: translations } = useTranslation();
     return (
         <div className="grid grid-flow-col h-[16rem] md:px-5 md:mt-10 py-5 max-md:gap-10 max-md:justify-center place-content-evenly">

@@ -15,30 +15,15 @@ const CountryOptions = ({ company, changeData }: myprops) => {
             value={company}
             onChange={changeData}
         >
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.Country.title"
-                )}
-            >
+            <option className="text-black" value="title">
                 {translations("homePage.signupForm.formInputs.Country.title")}
             </option>
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.Country.Afghanistan"
-                )}
-            >
+            <option className="text-black" value="Afghanistan">
                 {translations(
                     "homePage.signupForm.formInputs.Country.Afghanistan"
                 )}
             </option>
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.Country.Albania"
-                )}
-            >
+            <option className="text-black" value="Albania">
                 {translations("homePage.signupForm.formInputs.Country.Albania")}
             </option>
         </select>

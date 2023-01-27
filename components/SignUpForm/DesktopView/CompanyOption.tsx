@@ -15,42 +15,22 @@ const CompanyOption = ({ company, changeData }: myprops) => {
             value={company}
             onChange={changeData}
         >
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.companySize.title"
-                )}
-            >
+            <option className="text-black" value="title">
                 {translations(
                     "homePage.signupForm.formInputs.companySize.title"
                 )}
             </option>
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.companySize.microSize"
-                )}
-            >
+            <option className="text-black" value="microSize">
                 {translations(
                     "homePage.signupForm.formInputs.companySize.microSize"
                 )}
             </option>
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.companySize.smallSize"
-                )}
-            >
+            <option className="text-black" value="smallSize">
                 {translations(
                     "homePage.signupForm.formInputs.companySize.smallSize"
                 )}
             </option>
-            <option
-                className="text-black"
-                value={translations(
-                    "homePage.signupForm.formInputs.companySize.largeSize"
-                )}
-            >
+            <option className="text-black" value="largeSize">
                 {translations(
                     "homePage.signupForm.formInputs.companySize.largeSize"
                 )}

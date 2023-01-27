@@ -10,7 +10,7 @@ interface PiChartProps {
     height: any;
 }
 
-function PieChart({ chartData, width, height }: PiChartProps): JSX.Element {
+function PieChart({ chartData, width, height }: PiChartProps) {
     const userData = {
         labels: chartData.map((data: { year: any }) => data.year),
         datasets: [
