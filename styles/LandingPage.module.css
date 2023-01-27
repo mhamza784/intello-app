@@ -1,0 +1,56 @@
+.ERPBg {
+    padding: 2rem;
+}
+
+.ERPBg {
+
+    padding: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .ERPBg {
+
+        padding: 4rem;
+        padding-bottom: 5rem;
+    }
+
+}
+
+.BlockchainBg {
+
+    padding: 7rem;
+    padding-bottom: 9rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .BlockchainBg {
+
+        padding: 2rem;
+        padding-bottom: 2rem;
+    }
+
+}
+
+.cardImg {
+    transform: scale(.5rem);
+    width: 6rem;
+    height: 6rem;
+    padding: .5rem;
+
+    box-shadow: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+@media screen and (max-width: 768px) {
+
+    .cardImg {
+        transform: scale(.5rem);
+        width: 3rem;
+        height: 3rem;
+        padding: .3rem;
+
+        box-shadow: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+    }
+
+}

@@ -1,0 +1,10 @@
+.SideBarBg {
+    background: linear-gradient(180deg, #073170 0%, #05234F 97.19%);
+}
+
+.formBackground {
+    background: linear-gradient(180deg, #073170 0%, #05234F 97.19%);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}

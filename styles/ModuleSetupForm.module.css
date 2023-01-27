@@ -1,0 +1,30 @@
+.AccountingBtn {
+    border-radius: 0.25rem;
+    width: 7rem;
+    height: 2rem;
+    background-color: #EFEFEF;
+    color: #464646;
+}
+
+.ApprovalBtn {
+    border-radius: 0.25rem;
+    width: 7rem;
+    height: 2rem;
+    color: #464646;
+    border: 1px solid #DAD9D9;
+}
+
+.paddingForm {
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+.inputMarginT {
+    margin-top: -.6rem;
+}
+
+.checkBox {
+    margin-top: 4rem;
+}

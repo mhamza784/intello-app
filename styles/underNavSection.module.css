@@ -1,0 +1,44 @@
+.heroImage{
+    background-color: white;
+    position:absolute;
+    margin-top: 10%;
+    margin-left: 30%;
+    height: 35rem;
+    border-radius: 0.5rem;
+    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+
+.heroImageMobile{
+    background-color: white;
+    border-radius: 0.5rem;
+    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+
+}
+
+@media screen and (max-width: 768px) {
+
+    .heroImage {
+        height: 16rem;
+    }
+}
+@media screen and (max-width: 1024px) {
+
+    .heroImage {
+        margin-left: 40%;
+        height: 24rem;
+    }
+}
+@media screen and (max-width: 1280px) {
+
+    .heroImage {
+        height: 28rem;
+    }
+}
+@media screen and (max-width: 640px) {
+
+    .heroImage {
+        height: 12rem;
+    }
+}

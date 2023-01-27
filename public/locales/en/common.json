@@ -1,0 +1,770 @@
+{
+  "Demo": "123",
+  "arrayOfCards": [
+    {
+      "title": "Enterprice",
+      "description": "The right ERP software selection is important for setting your company on the right growth path—but the services offered.",
+      "price": "$366 +/mo",
+      "discount": "with Annual billing 20% Off",
+      "textAbovePrice": "Starting From",
+      "buttonText": "Get Started"
+    },
+    {
+      "title": "Enterprice",
+      "description": "The right ERP software selection is important for setting your company on the right growth path—but the services offered.",
+      "price": "$366 +/mo",
+      "discount": "with Annual billing 20% Off",
+      "textAbovePrice": "Starting From",
+      "buttonText": "Get Started"
+    },
+    {
+      "title": "Enterprice",
+      "description": "The right ERP software selection is important for setting your company on the right growth path—but the services offered.",
+      "price": "$366 +/mo",
+      "discount": "with Annual billing 20% Off",
+      "textAbovePrice": "Starting From",
+      "buttonText": "Get Started"
+    }
+  ],
+  "arrayFeaturesCards": [
+    {
+      "id": 1,
+      "title": "Real-time Traceability",
+      "img": "/images/RealTime.png"
+    },
+    {
+      "id": 2,
+      "img": "/images/Inventory.png",
+      "title": "Inventory Optimization"
+    },
+    {
+      "id": 3,
+      "img": "/images/Business.png",
+      "title": "Business Intelligence Reporting"
+    },
+    {
+      "id": 4,
+      "img": "/images/Interactive.png",
+      "title": "Interactive Data Visualization"
+    },
+    {
+      "id": 5,
+      "img": "/images/DataDriven.png",
+      "title": "Data Driven Decision Making"
+    },
+    {
+      "id": 6,
+      "img": "/images/Blockchain.png",
+      "title": "Blockchain Enabled Security"
+    }
+  ],
+  "homePage": {
+    "header": {
+      "navbarLinks": [
+        "HOME",
+        "PRODUCT",
+        "PRICING",
+        "MODULES",
+        "CONTACT US",
+        "ABOUT US"
+      ],
+      "loginBtnText": "LOGIN",
+      "SignUpBtnText": "SIGNUP",
+      "textWithBanner": "ENTERPRISE RESOURCE PLANNING",
+      "headingMiddle": "YOUR BUSINESS AUTOMATION PARTNER!",
+      "textUnderHeading": "Manage your business processes & data conveniently and efficiently."
+    },
+    "chooseUs": {
+      "title": "Why Choose Us",
+      "textBelowTitle": "Rethinking ERP system for improved performance",
+      "description": "Get all your performance and insights on dashboards through interactive data visualizations.",
+      "textBelowDescription": "Automate & manage your growing business even better using ERP"
+    },
+    "erpModel": {
+      "title": "ERP Modules"
+    },
+    "blockChain": {
+      "title": "A Blockchain Enabled ERP Software"
+    },
+    "Features": {
+      "title": "Features",
+      "description": " Automate & manage your growing business even better using INTELLO"
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "We found integrating Blockchain with ERP a great idea. INTELLO is an enterprise resource planning software enabled with blockchain as one of its key features. We possess expertise in ERP development & implementation right from the idea to complete on-ground implementation through leading-edge consulting and technology. We work closely with our clients digging deep down their core issues and resolving in order to enable them reach a competitive position in the industry 4.0.",
+      "textInImage": "We intend to become a global technology firm fueled by the goal of helping our clients thrive in this competitive business world. In publishing and graphic design, Lorem ipsum is a visual form."
+    },
+    "pricing": {
+      "title": "Pricing"
+    },
+    "footer": {
+      "textUnderLogo": "The right ERP software selection is important for setting your company on the right growth path—but the services offered",
+      "footerLinks": [
+        "Services",
+        "ERP Servive",
+        "It Consultant",
+        "Devops",
+        "Industries",
+        "ERP Servive",
+        "It Consultant",
+        "Devops",
+        "Company",
+        "ERP Servive",
+        "It Consultant",
+        "Devops"
+      ]
+    },
+    "loginForm": {
+      "textAboveLogo": "WELCOME TO",
+      "formMainHeading": "LOGIN ACCOUNT",
+      "textUnderHeading": "Login with your data that you enter during the registration",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot Password",
+      "loginBtnText": "LOGIN"
+    },
+    "signupForm": {
+      "textAboveLogo": "WELCOME TO",
+      "formMainHeading": "Sign Up",
+      "textUnderHeading": "It's quick and easy.",
+      "alreadyAccount": "Already have an account ? ",
+      "loginBtnText": "Log In",
+      "signupBtnText": "SignUp",
+      "formInputs": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "companyName": "Company Name",
+        "eMail": "E-mail",
+        "language": "Language",
+        "Password": "Password",
+        "companySize": {
+          "title": "Company Size",
+          "microSize": "Micro-Size",
+          "smallSize": "Small-Size",
+          "largeSize": "Large-Size"
+        },
+        "Country": {
+          "title": "Country",
+          "Afghanistan": "Afghanistan",
+          "Albania": "Albania"
+        }
+      }
+    }
+  },
+  "navbarDashboard": {
+    "dashboard": {
+      "title": "Dashboard",
+      "orders": {
+        "title": "Orders",
+        "purchaseRequisition": "Purchase Requisition",
+        "quotation": "Quotation",
+        "purchaseOrder": "Purchase Order"
+      },
+      "vendor": {
+        "title": "Vendor",
+        "defineVendor": "Define Vendor"
+      },
+      "invoices": {
+        "title": "Invoices",
+        "PurchaseInvoice": "Purchase Invoice"
+      },
+      "payments": {
+        "title": "Payments",
+        "payment": "Payment"
+      }
+    },
+    "apps&page": {
+      "title": "APPS & PAGES",
+      "calender": "Calender",
+      "invoice": "Invoice",
+      "users": "Users",
+      "roles": "Roles",
+      "pages": "Pages"
+    },
+    "components": {
+      "title": "COMPONENTS",
+      "calender": "Calender",
+      "invoice": "Invoice",
+      "users": "Users",
+      "roles": "Roles",
+      "pages": "Pages"
+    }
+  },
+  "dashboardForm": {
+    "formHeader": {
+      "title": {
+        "form": "Form",
+        "purchase": "Purchase Requisition",
+        "rfqFind": "RFQ Find Form",
+        "rfq": "RFQ",
+        "quotation": "Quotation",
+        "quoteAnalysis": "Quote Analysis",
+        "CreatePRtoPO": "Create PR to PO",
+        "poManually": "Create PO Manually",
+        "purchaseInvoice": "Purchase Invoice",
+        "payment": "Vendor Payments",
+        "moduleSetup": "Module Setup",
+        "chartAccount": "Chart of Account",
+        "mainAccount": "Main Account Category",
+        "currency": "Currency",
+        "user": "User",
+        "createSupplier": "Create Supplier",
+        "prListing": "Purchase Requisition Listing",
+        "purchaseOrder": "Purchase Order"
+      },
+      "searchBar": "Search",
+      "dropDown": {
+        "title": "Profile Name",
+        "item1": "Person Details",
+        "item2": "Sign Off"
+      }
+    },
+    "form": {
+      "title": " Company Detail",
+      "company": {
+        "title": "Company / Private",
+        "item1": " Biffco Enterprises Pvt. Ltd."
+      },
+      "email": {
+        "title": "Email ID",
+        "email1": "info@biffcoenteprises.com"
+      },
+      "Contact": {
+        "title": "Contact",
+        "code1": "+414"
+      },
+      "No": {
+        "title": "No."
+      },
+      "address": "Address",
+      "country": {
+        "title": "Country",
+        "item1": "United States"
+      },
+      "city": {
+        "title": "City",
+        "city1": "California"
+      },
+      "postalCode": {
+        "title": "Postal Code",
+        "code1": "62639"
+      },
+      "industry": {
+        "title": "Industry Type",
+        "type1": "Real Estate"
+      },
+      "founded": {
+        "title": "Year Founded",
+        "by": "Corey Carder"
+      },
+      "Website": {
+        "title": "Website",
+        "link1": "www.biffcoenterprises.com"
+      },
+      "button": {
+        "btn1": "Cancel",
+        "btn2": "Save"
+      },
+      "validation": {
+        "company": "Please enter your company name"
+      }
+    },
+    "purchaseForm": {
+      "button": {
+        "save": "Save",
+        "viewStatus": "View Approval Status",
+        "sendRequisition": "Send to Requisition",
+        "closePR": "Close PR",
+        "createPO": "Create PO",
+        "print": "Print",
+        "viewDetail": "View PO Detail",
+        "submitApproval": "Submit for Approval"
+      },
+      "number": "Number",
+      "attachment": "Add Attachment",
+      "description": "Description",
+      "preparer": "Preparer",
+      "status": "Status",
+      "currency": "Currency",
+      "requestedDate": "Requested Date",
+      "reason": "Reason",
+      "justification": "Business Justification",
+      "lastPurchaseHistory": {
+        "btnName": "Last Purchase History",
+        "title": "Last Purchase History"
+      },
+      "approvalStatus": {
+        "title": "View Approval Status",
+        "btnName": "View Approval Status"
+      },
+      "itemQuantityStatus": {
+        "btnName": "Item Quantity Status",
+        "title": "Item Quantity Status"
+      }
+    },
+    "rfqForm": {
+      "prNumber": "PR Number",
+      "supplierName": "Supplier Name",
+      "searchBar": "Search",
+      "add": "Add",
+      "btnRfq": "Create RFQ"
+    },
+    "rfq": {
+      "number": "Number",
+      "creationDate": "Creation Date",
+      "dueDate": "Due Date",
+      "status": "Status",
+      "description": "Description",
+      "currency": "Currency",
+      "supplierName": "Supplier Name",
+      "buttonForm": {
+        "save": "Save",
+        "create": "Create Quotation"
+      }
+    },
+    "quoteAnalysis": {
+      "RFQNumber": "RFQ Number",
+      "supplierName": "Supplier Name",
+      "btnQuoteAnalysis": "Approve Quotation",
+      "modal": {
+        "title": "Approve Form",
+        "forwardFrom": "Forward From",
+        "forwardTo": "Forward To",
+        "note": "Note",
+        "daysEarly": "Days Early",
+        "tolerance": "Tolerance",
+        "daysLate": "Days Late",
+        "action": "Action",
+        "mainBtn": "Main",
+        "receivingControlsBtn": "Receiving Controls",
+        "radioBtn": {
+          "submitApproval": "Submit for Approval",
+          "forceApproval": "Force Approval"
+        }
+      }
+    },
+    "CreatePRtoPO": {
+      "RFQNumber": "PR Number",
+      "supplierName": "Supplier Name",
+      "searchBar": "Search",
+      "createBtn": "Create PO",
+      "cancelBtn": "Cancel"
+    },
+    "poManually": {
+      "number": "PO Number",
+      "date": "Creation Date",
+      "supplier": "Supplier",
+      "createdBy": "Created By",
+      "status": "Status",
+      "arrival": "Expected Arrival",
+      "buttonForm": "Approve",
+      "modal": {
+        "title": "Approve Form",
+        "submitBtn": "Submit",
+        "forwardFrom": "Forward From",
+        "forwardTo": "Forward To",
+        "note": "Note",
+        "mainForm": {
+          "mainBtn": "Main",
+          "receiptRouting": "Receipt Routing",
+          "noteSupplier": "Note from Supplier",
+          "paymentsTerms": "Payments Terms",
+          "created": "Created",
+          "freightTerms": "Freight Terms",
+          "warningDelay": "Warning Delay"
+        },
+        "receivingForm": {
+          "receivingControlsBtn": "Receiving Controls",
+          "daysEarly": "Days Early",
+          "tolerance": "Tolerance",
+          "daysLate": "Days Late",
+          "action": "Action"
+        },
+        "radioBtn": {
+          "submitApproval": "Submit for Approval",
+          "forceApproval": "Force Approval"
+        }
+      }
+    },
+    "purchaseInvoice": {
+      "purchaseInvoiceForm": {
+        "btn": {
+          "createNew": "Create New",
+          "save": "Save",
+          "edit": "EDIT",
+          "delete": "Delete",
+          "viewDetail": "View Detail",
+          "submit": "Submit"
+        }
+      },
+      "type": "Type",
+      "date": "Invoice Date",
+      "poNum": "PO Number",
+      "invoiceCurrency": "Invoice Currency",
+      "invoiceNum": "Invoice Number",
+      "paymentTerms": "Payment Terms",
+      "supplierName": "Supplier Name",
+      "postingDate": "Posting Date",
+      "untaxedAmount": "Untaxed Amount",
+      "tax": "Tax",
+      "total": "Total",
+      "discount": "Discount",
+      "netAmountPayable": "Net Amount Payable",
+      "checkBox": {
+        "validate": "Validate",
+        "relatedInvoices": " Validate Related Invoices",
+        "cancelInvoices": "Cancel Invoices",
+        "prePayments": " Apply/Unapply Prepayments",
+        "pay": " Pay in Full",
+        "print": " Print"
+      },
+      "formButton": {
+        "viewJournal": "View Journal",
+        "submitForApproval": "Submit For approval",
+        "viewApprovalStatus": "View Approval Status",
+        "applyPrepayment": "Apply Prepayment",
+        "createPayment": "Create payment",
+        "viewPayment": "View Payment",
+        "post": "post",
+        "print": "Print",
+        "save": "save",
+        "addCharges": "Add Charges",
+        "removeLine": "Remove Line",
+        "financialDimension": "Financial Dimension",
+        "discount": "Discount",
+        "action": "Action",
+        "paymentButton": "Make Payment Button",
+        "ok": "Ok",
+        "cancel": "Cancel"
+      },
+      "applyPrepayment": {
+        "title": "Pending Prepayment Against PO",
+        "applyBtn": "Apply"
+      },
+      "financialDimension": {
+        "title": "Financial Dimension",
+        "brand": "Brand",
+        "location": "Location",
+        "department": "Department"
+      },
+      "discountBtn": {
+        "title": "Discount",
+        "discountAmount": "Discount Amount",
+        "discountPercentage": "Discount Percentage"
+      }
+    },
+    "payment": {
+      "title": "Payment",
+      "supplier": "Supplier Name",
+      "bankAccount": "Bank Account",
+      "supplierNum": "Supplier Number",
+      "paymentDate": "Payment Date",
+      "documentNo": "Payment Document No.",
+      "postingDate": "Posting Date",
+      "paymentMode": "Payment Mode",
+      "invoiceNum": "Invoice Number",
+      "supplierName": "Supplier Name",
+      "InvoiceNum": "Invoice Number",
+      "paymentAmount": "Payment Amount",
+      "discountAmount": "Discount  Amount",
+      "AdjustInvoices": {
+        "title": "Pending Invoice",
+        "ok": "Ok"
+      },
+      "invoicePayment": {
+        "title": "Invoice Payment"
+      },
+      "radioButton": {
+        "bank": "Bank",
+        "cash": "Cash"
+      },
+      "formBtn": {
+        "enter": "Enter",
+        "find": "Find",
+        "registerPayment": "Register Payment",
+        "adjustInvoices": "Adjust Invoices"
+      }
+    },
+    "moduleSetup": {
+      "expenseAccrual": "Expense Accrual",
+      "liability": "Liability",
+      "prepayment": "Prepayment",
+      "billsPayable": "Bills Payable",
+      "rateGainer": "Exchange Rate Gainer",
+      "rateLoss": "Exchange Rate Loss",
+      "inventory": "Inventory",
+      "formBtn": {
+        "accounting": "Accounting",
+        "approval": "Approval",
+        "document": "Document"
+      },
+      "checkBox": {
+        "requisition": "Requisition",
+        "PO": "PO"
+      }
+    },
+    "chartAccount": {
+      "btn": {
+        "newBtn": "New",
+        "deleteBtn": "Delete",
+        "editBtn": "Edit",
+        "transactionBtn": "Transaction",
+        "searchBtn": "Search"
+      },
+      "newForm": {
+        "title": "General",
+        "mainAccount": "Main Account",
+        "accountDescription": "Account Description",
+        "accountType": "Account Type",
+        "accountCategory": "Main Account Category",
+        "cancelBtn": "Cancel",
+        "submitBtn": "Submit",
+        "checkBox": {
+          "manualEntry": "Do Not Allow Manual Entry",
+          "suspended": "Suspended"
+        },
+        "defaultCurrency": "Default Currency",
+        "PostingRestriction": {
+          "title": "Posting Restriction",
+          "userID": "User ID",
+          "userGroup": "User Group"
+        },
+        "availableStructure": {
+          "title": "Available in Account structure",
+          "checkBox": "Yes"
+        }
+      }
+    },
+    "mainAccount": {
+      "button": {
+        "newBtn": "New",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "currency": {
+      "button": {
+        "newBtn": "New",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "user": {
+      "button": {
+        "newBtn": "New",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "createSupplier": {
+      "basic": "Basic Information",
+      "formField": {
+        "name": "Name",
+        "supplierNumber": "Supplier Number",
+        "website": "Website",
+        "country": "Country",
+        "industry": "Industry",
+        "inactiveDate": "Inactive Date",
+        "taxRegistration": "Tax Registration Number",
+        "status": "Status",
+        "dateEstablished": "Date Established"
+      },
+      "radioBtn": {
+        "company": "Company",
+        "individual": "Individual"
+      },
+      "checkBox": {
+        "title": "Hold from Payment",
+        "allowTex": "Allow With Holding Tax",
+        "allInvoices": "All Invoices",
+        "purchasing": "Purchasing",
+        "payment": "Payment"
+      },
+      "PaymentDetails": {
+        "title": "Payment Details",
+        "checkBox": {
+          "billPayable": "Bill Payable",
+          "check": "Check",
+          "electronic": "Electronic",
+          "wire": "Wire"
+        }
+      },
+      "button": {
+        "address": {
+          "btnName": "Address",
+          "country": "Country",
+          "address": "Address Line 1",
+          "city": "City",
+          "emailAddress": "Email Address"
+        },
+        "contact": {
+          "btnName": "Contact",
+          "contactTitle": "Contact Title",
+          "name": "Name",
+          "jobTitle": "Job Title",
+          "department": "Department",
+          "phoneNumber": "Phone Number",
+          "mobileNumber": "Mobile Number",
+          "emailAddress": "Email Address"
+        },
+        "paymentDetails": {
+          "btnName": "Payment Details",
+          "title": "Payment Method",
+          "checkBox": {
+            "billPayable": "Bill Payable",
+            "check": "Check",
+            "electronic": "Electronic",
+            "wire": "Wire"
+          }
+        },
+        "paymentTerms": {
+          "btnName": "Payment Terms ",
+          "paymentCurrency": "Payment Currency",
+          "paymentTerms": "Payment Terms"
+        }
+      }
+    },
+    "prListing": {
+      "button": {
+        "newBtn": "New",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "viewDetail": "View Details"
+      }
+    },
+    "purchaseOrder": {
+      "button": {
+        "save": "Save",
+        "submitApproval": "Submit for Approval",
+        "viewStatus": "View Approval Status",
+        "productReceived": "Product Received",
+        "viewProductReceived": "View Product Received",
+        "createInvoice": "Create Invoice",
+        "viewInvoiced": "View Invoiced",
+        "createPrepayment": "Create Prepayment",
+        "viewPrepayment": "View Prepayment",
+        "addLine": "Add Line",
+        "charges": "Charges"
+      },
+      "poNumber": "PO Number",
+      "supplier": "Supplier",
+      "status": "Status",
+      "paymentTerms": "Payment Terms",
+      "shipTo": "Ship To",
+      "creationDate": "Creation Date",
+      "createdBy": "Created By",
+      "expectedArrival": "Expected Arrival",
+      "paymentMethod": "Payment Method",
+      "billTo": "Bill To",
+      "lastPurchaseHistory": {
+        "btnName": "Last Purchase History",
+        "title": "Last Purchase History"
+      },
+      "chargesAllocation": {
+        "title": "Charges Allocation",
+        "button": {
+          "add": "Add",
+          "save": "Save",
+          "edit": "Edit",
+          "delete": "Delete",
+          "allocated": "Allocated"
+        }
+      },
+      "productReceived": {
+        "title": "Product Receipt",
+        "history": "History"
+      },
+      "viewPrepayment": {
+        "title": "View Prepayment",
+        "description": "Description",
+        "amount": "Amount",
+        "percentage": "Percentage",
+        "limit": "Limit",
+        "prepaymentRemaining": "Prepayment remaining",
+        "prepaymentApplication": "Prepayment Application Remaining",
+        "prepaymentCategory": "Prepayment Category",
+        "radioBtn": {
+          "title": "BASIS",
+          "Fixed": "Fixed",
+          "Percentage": "Percentage"
+        }
+      },
+      "approvalStatus": {
+        "title": "View Approval Status",
+        "btnName": "View Approval Status"
+      },
+      "itemQuantityStatus": {
+        "btnName": "Item Quantity Status",
+        "title": "Item Quantity Status"
+      }
+    }
+  },
+  "dashboard": {
+    "numericData": [
+      {
+        "id": "1",
+        "img": "/profitMargin.png",
+        "title": "Profit Margin",
+        "count": "12.7k",
+        "subCount": "12.7k"
+      },
+      {
+        "id": "2",
+        "img": "/revenue.png",
+        "title": "Revenue",
+        "count": "12.7k",
+        "subCount": "12.7k"
+      },
+      {
+        "id": "3",
+        "img": "/purchases.png",
+        "title": "Purchases",
+        "count": "12.7k",
+        "subCount": "12.7k"
+      },
+      {
+        "id": "4",
+        "img": "/payables.png",
+        "title": "Payables",
+        "count": "12.7k",
+        "subCount": "12.7k"
+      }
+    ],
+    "chartsData": [
+      {
+        "id": "1",
+        "year": "2016",
+        "userGain": "80000",
+        "userLost": "823"
+      },
+      {
+        "id": "2",
+        "year": "2017",
+        "userGain": "45677",
+        "userLost": "345"
+      },
+      {
+        "id": "3",
+        "year": "2018",
+        "userGain": "78888",
+        "userLost": "555"
+      },
+      {
+        "id": "4",
+        "year": "2019",
+        "userGain": "90000",
+        "userLost": "4555"
+      },
+      {
+        "id": "5",
+        "year": "2020",
+        "userGain": "4300",
+        "userLost": "234"
+      }
+    ]
+  }
+}
