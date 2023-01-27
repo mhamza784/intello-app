@@ -1,0 +1,30 @@
+.searchBarTopBar {
+    width: 18rem;
+    border-radius: 0.125rem;
+    border-color: transparent;
+
+}
+
+.searchBar {
+    width: 12rem;
+    border-radius: 0.125rem;
+    border-color: transparent;
+
+}
+
+@media (max-width: 768px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .searchBar {
+        display: none;
+    }
+}
+
+.navbarBg {
+    background: transparent;
+    width: screen;
+    display: block;
+}

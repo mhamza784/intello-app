@@ -1,0 +1,67 @@
+.button1 {
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    width: 7rem;
+    height: 2.3rem;
+    background-color: #062655;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+
+    .button1 {
+        border-radius: .25rem;
+        font-size: .8rem;
+        width: 5.5rem;
+        height: 2rem;
+        background-color: #062655;
+        color: white;
+    }
+}
+
+.largeBtn {
+    border-radius: 0.25rem;
+    font-size: .8rem;
+    width: 9rem;
+    height: 2.3rem;
+    background-color: #062655;
+    color: white;
+}
+
+.editTableBtn {
+    width: 4.2rem;
+    height: 2rem;
+}
+
+.mainAccount {
+    margin-top: 1rem;
+    border: 1px solid #CEE1FC;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+
+.poForm {
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 0;
+}
+
+.inputMarginT {
+    margin-top: -.6rem;
+}
+
+.PurchaseFormTable {
+    margin-top: 1rem;
+    border: 1px solid #CEE1FC;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+
+.prModelTab {
+    border-radius: 0.25rem;
+    width: 14rem;
+    height: 2.2rem;
+    background-color: #062655;
+    color: white;
+}
